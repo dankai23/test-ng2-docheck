@@ -9,7 +9,12 @@
 
     * dankai23/test-ng2-docheck/lib/badge_component.dart  
 
-3. You can change a file and test DoCheck.  
+3. How to test
+    * change badge_component.dart file
+    * pub serve
+    * set http://localhost:8080 to Chrome Browser
+    * push F12 key
+    * input name
 
 4. snapshot  
     * ![snapshot](./20170131-1.jpg)
