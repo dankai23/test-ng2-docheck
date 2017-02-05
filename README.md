@@ -16,5 +16,5 @@
     * push F12 key
     * input name
 
-4. snapshot  
-    * ![snapshot](./20170131-1.jpg)
+4. screenshot  
+    * ![screenshot](./20170131-1.jpg)
